@@ -7,5 +7,7 @@ O projeto foi iniciado no curso de HTML e CSS da DEVMEDIA, após concluir o curs
 
 ## Layout da página
 ### Página 
-![WEB](https://github.com/Teddy-ar/Pagina-Web-com-Links/blob/master/assets/Animacao1.gif) ![Smartphone](https://github.com/Teddy-ar/Pagina-Web-com-Links/blob/master/assets/Animacao2.gif)
+![WEB](https://github.com/Teddy-ar/Pagina-Web-com-Links/blob/master/assets/Animacao1.gif) 
+### Layout responsivo
+![Smartphone](https://github.com/Teddy-ar/Pagina-Web-com-Links/blob/master/assets/Animacao2.gif)
 
